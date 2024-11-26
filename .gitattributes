@@ -6,9 +6,10 @@
 [Bb]uilds/
 [Ll]ogs/
 [Mm]emoryCaptures/
-
 # Visual Studio
 .vscode/
 *.csproj
 *.sln
 *.userprefs
+*.png filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
